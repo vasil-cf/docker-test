@@ -2,4 +2,4 @@
 FROM alpine:3.20
 
 # Set a default command
-CMD ["echo", "v0.0.0-alpha9"]
+CMD ["echo", "v0.0.0-alpha10"]
